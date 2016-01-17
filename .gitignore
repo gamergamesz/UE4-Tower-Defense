@@ -58,4 +58,4 @@ Intermediate/*
 DerivedDataCache/*
 
 # You shouldn't be editing starter content, have people download that themselves to reduce repo size
-StarterContent/*
+Content/StarterContent/*

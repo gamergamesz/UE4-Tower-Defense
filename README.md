@@ -2,5 +2,5 @@
 Winter 2016 VGDC UCI project
 
 Sound credits
-Explosion received from http://soundbible.com/tags-explosion.html
+Explosion received from http://soundbible.com/
 Merged Blast Sound and Bomb Sound together
